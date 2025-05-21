@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://indi.dtam.moph.go.th/images/sitem.xml
